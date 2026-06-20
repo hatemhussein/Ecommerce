@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "Gi0HMl+5sYI+CpV/6bxZ9deySzsE3rVsW3+9HTZZtAE=",
+  "Source": "KASHOP.PL",
+  "BasePath": "_content/KASHOP.PL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "KASHOP.PL\\wwwroot",
+      "Source": "KASHOP.PL",
+      "ContentRoot": "E:\\ASP .NET COURSE\\API\\KASHOP\\KASHOP.PL\\wwwroot\\",
+      "BasePath": "_content/KASHOP.PL",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\ASP .NET COURSE\\API\\KASHOP\\KASHOP.PL\\wwwroot\\images\\4aa5b75e-317f-43e3-8ffd-dfa6b29e4c16.jpg",
+      "SourceId": "KASHOP.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ASP .NET COURSE\\API\\KASHOP\\KASHOP.PL\\wwwroot\\",
+      "BasePath": "_content/KASHOP.PL",
+      "RelativePath": "images/4aa5b75e-317f-43e3-8ffd-dfa6b29e4c16.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4aa5b75e-317f-43e3-8ffd-dfa6b29e4c16.jpg"
+    },
+    {
+      "Identity": "E:\\ASP .NET COURSE\\API\\KASHOP\\KASHOP.PL\\wwwroot\\images\\5a27dbb3-4a5a-4b21-b715-64a10085f80b.jfif",
+      "SourceId": "KASHOP.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ASP .NET COURSE\\API\\KASHOP\\KASHOP.PL\\wwwroot\\",
+      "BasePath": "_content/KASHOP.PL",
+      "RelativePath": "images/5a27dbb3-4a5a-4b21-b715-64a10085f80b.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5a27dbb3-4a5a-4b21-b715-64a10085f80b.jfif"
+    },
+    {
+      "Identity": "E:\\ASP .NET COURSE\\API\\KASHOP\\KASHOP.PL\\wwwroot\\images\\b2cdfa29-ee81-4378-bf01-71cabadba13b.jpg",
+      "SourceId": "KASHOP.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ASP .NET COURSE\\API\\KASHOP\\KASHOP.PL\\wwwroot\\",
+      "BasePath": "_content/KASHOP.PL",
+      "RelativePath": "images/b2cdfa29-ee81-4378-bf01-71cabadba13b.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b2cdfa29-ee81-4378-bf01-71cabadba13b.jpg"
+    },
+    {
+      "Identity": "E:\\ASP .NET COURSE\\API\\KASHOP\\KASHOP.PL\\wwwroot\\images\\f43bcaa2-a531-46ab-9aaa-fb9a1d6d4a40.jfif",
+      "SourceId": "KASHOP.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ASP .NET COURSE\\API\\KASHOP\\KASHOP.PL\\wwwroot\\",
+      "BasePath": "_content/KASHOP.PL",
+      "RelativePath": "images/f43bcaa2-a531-46ab-9aaa-fb9a1d6d4a40.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f43bcaa2-a531-46ab-9aaa-fb9a1d6d4a40.jfif"
+    }
+  ]
+}
